@@ -4,23 +4,23 @@ Solving various business problems related New York AirBNB by creating Tableau da
 Data: 
 https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
 
-Attributes:
-id: House listing id for each house
-name: Name of the house listing
-host_id: Id for each host
-host_names: Name of each host
-neighbourhood_groups: Location of house listing
-neighbourhood: Area of house listing
-latitude: Latitude coordinates
-longitude: longitude coordinates
-room_type: listing Space Type
-price: Price in dollars 
-minimum_nights: Amount of minimum_nights
-number_of_reviews: number of reviews for each house listings
-last_reviews: latest reviews date
-reviews_per_month: Number of reviews per month 
-calculated_host_listing: Number of house listing for each host
-Availability_365: number of days when listing is available for booking
+<br>Attributes:</br>
+<br>id: House listing id for each house</br>
+<br>name: Name of the house listing</br>
+<br>host_id: Id for each host</br>
+<br>host_names: Name of each host</br>
+<br>neighbourhood_groups: Location of house listing</br>
+<br>neighbourhood: Area of house listing</br>
+<br>latitude: Latitude coordinates</br>
+<br>longitude: longitude coordinates</br>
+<br>room_type: listing Space Type</br>
+<br>price: Price in dollars</br>
+<br>minimum_nights: Amount of minimum_nights</br>
+<br>number_of_reviews: number of reviews for each house listings</br>
+<br>last_reviews: latest reviews date</br>
+<br>reviews_per_month: Number of reviews per month</br>
+<br>calculated_host_listing: Number of house listing for each host</br>
+<br>Availability_365: number of days when listing is available for booking</br>
 
 Business Problems:
 
