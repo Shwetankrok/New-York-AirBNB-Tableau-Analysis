@@ -1,26 +1,8 @@
 # New-York-AirBNB-Tableau-Analysis
-Solving various business problems related New York AirBNB by creating Tableau dashboards
+Solving various business problems related New York AirBNB by creating Tableau visualization with multiple filters and parameters
 
 Data: 
 https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
-
-<br>Attributes:</br>
-<br>id: House listing id for each house</br>
-<br>name: Name of the house listing</br>
-<br>host_id: Id for each host</br>
-<br>host_names: Name of each host</br>
-<br>neighbourhood_groups: Location of house listing</br>
-<br>neighbourhood: Area of house listing</br>
-<br>latitude: Latitude coordinates</br>
-<br>longitude: longitude coordinates</br>
-<br>room_type: listing Space Type</br>
-<br>price: Price in dollars</br>
-<br>minimum_nights: Amount of minimum_nights</br>
-<br>number_of_reviews: number of reviews for each house listings</br>
-<br>last_reviews: latest reviews date</br>
-<br>reviews_per_month: Number of reviews per month</br>
-<br>calculated_host_listing: Number of house listing for each host</br>
-<br>Availability_365: number of days when listing is available for booking</br>
 
 Business Problems:
 
@@ -35,6 +17,10 @@ Business Problems:
 <br>9. Give Bottom N houses having lowest prices based on any given Room Type and locations to stay?</br>
 <br>10. Who are Top N hostnames having most number of house listings in any given locations?</br>
 <br>11. Who are Bottom N hostnames having least number of house listings on any given location?</br>
+
+<br>Q: Average Price of a Room to stay for a night in various neighborhood region of New York ? </br>
+![image](https://user-images.githubusercontent.com/55294349/118284692-b0dc6b80-b49e-11eb-8eb4-691cb5aca7f1.png)
+
 
 
 
